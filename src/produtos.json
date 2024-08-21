@@ -1,72 +1,72 @@
 [
   {
-    "imagem": "./public/barbear.jpeg",
+    "imagem": "../public/barbear.jpeg",
     "nome": "Maquina de Barbear",
     "link": "https://s.shopee.com.br/5KsVdqSPI2",
     "numero": 105.7
   },
   {
-    "imagem": "./public/perfume.jpeg",
+    "imagem": "../public/perfume.jpeg",
     "nome": "Kit 3 Porta Perfume ",
     "link": "https://s.shopee.com.br/5fVM1EDdOy",
     "numero": 15.1
   },
   {
-    "imagem": "./public/carteira.jpeg",
+    "imagem": "../public/carteira.jpeg",
     "nome": "Porta-cartões fino Anti-roubo",
     "link": "https://s.shopee.com.br/4AgYFqKTxH",
     "numero": 58.7
   },
   {
-    "imagem": "./public/pulseira.jpeg",
+    "imagem": "../public/pulseira.jpeg",
     "nome": "Pulseira Estilo Europeu",
     "link": "https://s.shopee.com.br/9A5ED2wZii",
     "numero": 8.8
   },
   {
-    "imagem": "./public/relogio1.jpeg",
+    "imagem": "../public/relogio1.jpeg",
     "nome": "Relógio de Moda Masculina",
     "link": "https://s.shopee.com.br/4fcoqk1JbZ",
     "numero": 5.7
   },
   {
-    "imagem": "./public/relogio2.jpeg",
+    "imagem": "../public/relogio2.jpeg",
     "nome": "Relógio Eletrônico Esportivo",
     "link": "https://s.shopee.com.br/1fzDHCDc1p",
     "numero": 1.1
   },
   {
-    "imagem": "./public/relogio3.jpeg",
+    "imagem": "../public/relogio3.jpeg",
     "nome": "Relógio Casual De Quartzo",
     "link": "https://s.shopee.com.br/1fzDHAVkCe",
     "numero": 42.2
   },
   {
-    "imagem": "./public/colar.jpeg",
+    "imagem": "../public/colar.jpeg",
     "nome": "Colar de aço inoxidável",
     "link": "https://s.shopee.com.br/qQ6HcHio0",
     "numero": 7.9
   },
   {
-    "imagem": "./public/casaco.jpeg",
+    "imagem": "../public/casaco.jpeg",
     "nome": "OAKLEY Casaco De Algodão Espesso",
     "link": "https://s.shopee.com.br/6V4TCC1WKq",
     "numero": 1.9
   },
   {
-    "imagem": "./public/fone.jpeg",
+    "imagem": "../public/fone.jpeg",
     "nome": "one De Ouvido Bluetooth Air31 Sem Fio",
     "link": "https://s.shopee.com.br/5pomOzCSCv",
     "numero": 102.9
   },
   {
-    "imagem": "./public/tenis.jpeg",
+    "imagem": "../public/tenis.jpeg",
     "nome": "2 Tênis casual masculino",
     "link": "https://s.shopee.com.br/8KW7NbSvml",
     "numero": 14.5
   },
   {
-    "imagem": "./public/corrente.jpeg",
+    "imagem": "../public/corrente.jpeg",
     "nome": "Kit Conjunto Corrente + Pulseira",
     "link": "https://s.shopee.com.br/9f1Uy4aieA",
     "numero": 71.0
